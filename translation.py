@@ -7,7 +7,7 @@ This Bot can Upload in File and Video Format to Telegram with Permanent Thumbnai
 
 /help To know how to use me !
 
-Developed with ❤ By @TheTeleRoid 
+Developed with ❤ By @renishrplay હા હું ગુજરતી. રેનીશ
 """
 
     HELP_USER = """𝐈𝐭'𝐬 𝐧𝐨𝐭 𝐭𝐡𝐚𝐭 𝐜𝐨𝐦𝐩𝐥𝐢𝐜𝐚𝐭𝐞𝐝 𝐭𝐨 𝐮𝐬𝐞 𝐦𝐞𝐡! 😅
@@ -22,11 +22,11 @@ Developed with ❤ By @TheTeleRoid
    𝐕𝐢𝐝𝐞𝐨  - 𝐆𝐢𝐯𝐞 𝐅𝐢𝐥𝐞 𝐚𝐬 𝐯𝐢𝐝𝐞𝐨 𝐰𝐢𝐭𝐡𝐨𝐮𝐭 𝐒𝐜𝐫𝐞𝐞𝐧𝐬𝐡𝐨𝐭𝐬
    𝐃𝐅𝐢𝐥𝐞  - 𝐆𝐢𝐯𝐞 𝐅𝐢𝐥𝐞 𝐰𝐢𝐭𝐡𝐨𝐮𝐭 𝐒𝐜𝐫𝐞𝐞𝐧𝐬𝐡𝐨𝐭𝐬
 𝐍𝐁 : 𝐈𝐭 𝐢𝐬 𝐑𝐞𝐜𝐨𝐦𝐦𝐞𝐧𝐝𝐞𝐝 𝐓𝐨 𝐔𝐬𝐞 𝐀 𝐂𝐮𝐬𝐭𝐨𝐦 𝐓𝐡𝐮𝐦𝐛𝐧𝐚𝐢𝐥 𝐁𝐞𝐜𝐚𝐮𝐬𝐞, 𝐒𝐨𝐦𝐞 𝐓𝐢𝐦𝐞 𝐖𝐨𝐧'𝐭 𝐔𝐩𝐥𝐨𝐚𝐝 𝐓𝐡𝐞 𝐅𝐢𝐥𝐞 𝐖𝐢𝐭𝐡𝐨𝐮𝐭 𝐚 𝐂𝐮𝐬𝐭𝐨𝐦 𝐓𝐡𝐮𝐦𝐛𝐧𝐚𝐢𝐥.
-𝐒𝐮𝐩𝐩𝐨𝐫𝐭 𝐆𝐫𝐨𝐮𝐩 : @TeleRoid14
+𝐒𝐮𝐩𝐩𝐨𝐫𝐭 𝐆𝐫𝐨𝐮𝐩 :  https://t.me/rplay_support
 """
-    ABOUT_TEXT = """<b>🤖 My Name: <a href='https://t.me/URLUploaderV3Bot'> @URLUploaderV3Bot </a></b>
+    ABOUT_TEXT = """<b>🤖 My Name: <a href='https://t.me/Rplaymovie_url_bot'> @Rplaymovie_url_bot </a></b>
 
-<b>👨‍💻 Developer :<a href='https://t.me/PredatorHackerzZ'>@TheTeleRoid</a></b>
+<b>👨‍💻 Developer :<a href='https://t.me/renishrplay'>@Rplaymovie_url_bot</a></b>
 
 <b>📝 Language: 𝐏𝐲𝐭𝐡𝐨𝐧𝟑</b>
 
@@ -36,13 +36,12 @@ Developed with ❤ By @TheTeleRoid
 
 <b>💢 Source Code:<a href='https://github.com/PredatorHackerzZ/UPLOADER-BOT'> Click Here </a></b>
 
-<b>📢 Bot Support:<a href='https://t.me/TeleRoid14'> @TeleRoid14</a></b>
+<b>📢 Bot Support:<a href='https://t.me/rplay_support'> @Rplaymovie_url_bot</a></b>
 
-<b>🔔 Bot Updates: <a href='https://t.me/TeleRoidGroup'> @TeleRoidGroup</a></b>
+<b>🔔 Bot Updates: <a href='https://t.me/rplay_support'> @Rplaymovie_url_bot</a></b>
 
-<b>🌀 Telegram BotList: <a href='https://t.me/TGRobot_List'> @TGRobot_List</a></b>
 
-<b>🚸 Powered By: <a href='https://t.me/MoviesFlixers_DL'> @HindiWebNetwok</a></b>"""
+<b>🚸 Powered By: <a href='https://t.me/rplaymovie'> @rplaymovie</a></b>"""
     FORMAT_SELECTION = "Select the desired format: <a href='{}'>file size might be approximate</a> \nIf you want to set custom thumbnail, send photo before or quickly after tapping on any of the below buttons.\nYou can use /deletethumbnail to delete the auto-generated thumbnail."
     SET_CUSTOM_USERNAME_PASSWORD = """𝐈𝐟 𝐲𝐨𝐮 𝐰𝐚𝐧𝐭 𝐭𝐨 𝐝𝐨𝐰𝐧𝐥𝐨𝐚𝐝 𝐩𝐫𝐞𝐦𝐢𝐮𝐦 𝐯𝐢𝐝𝐞𝐨𝐬, 𝐩𝐫𝐨𝐯𝐢𝐝𝐞 𝐢𝐧 𝐭𝐡𝐞 𝐟𝐨𝐥𝐥𝐨𝐰𝐢𝐧𝐠 𝐟𝐨𝐫𝐦𝐚𝐭:
 URL | filename | username | password"""
